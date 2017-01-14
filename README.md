@@ -10,13 +10,13 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Description of your Plugin
+A simple music player 
 
 ## Usage
 ```
-You: example of how to trigger the command
-Jarvis: output from Jarvis
+You: Riproduci Musica
+Jarvis: Bene sentiamo un po di musica
 ```
 
 ## Author
-[your name](http://your.website)
+[Advince](https://github.com/advince/)
