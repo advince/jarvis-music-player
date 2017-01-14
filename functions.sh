@@ -28,6 +28,7 @@ jv_pg_stop_music() {
 	xmms2 prev
 }
 
+jv_pg_update_music() {
 	say "$(jv_pg_music_lg up)"
 	xmms2 playlist clear
 	xmms2 add $music_directory
