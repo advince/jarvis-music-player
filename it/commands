@@ -1,0 +1,5 @@
+*RIPRODUCI*MUSICA*==jv_pg_play_music
+*STOP*MUSICA*==jv_pg_stop_music
+*CANZONE*DOPO*==jv_pg_next_music
+*CANZONE*PRIMA*==jv_pg_prev_music
+*AGGIORNA*MUSICA*==jv_pg_update_music

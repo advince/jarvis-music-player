@@ -15,3 +15,15 @@
 #        the_answer_is) echo "La réponse est $2";;
 #    esac
 #} 
+
+
+jv_pg_music_lg() {
+    case "$1" in
+        pl) echo "Bene sentiamo un po di musica";;
+        st) echo "Musica terminata";;
+        nx) echo "prossima canzone";;
+        pv) echo "canzone precedente";;
+        up) echo "Musica aggiornata";;
+        *) jv_error "ERRORE: non capisco: $1";;
+    esac
+}
