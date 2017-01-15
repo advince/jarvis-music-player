@@ -1,1 +1,1 @@
-music_directory='/home/pi/Music'
+music_directory=/home/pi/Music
