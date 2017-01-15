@@ -1,0 +1,5 @@
+*PLAY*MUSIC*==jv_pg_play_music
+*STOP*MUSIC*==jv_pg_stop_music
+*NEXT*SONG*==jv_pg_next_music
+*PREVIOUS*SONG*==jv_pg_prev_music
+*UPDATE*MUSIC*==jv_pg_update_music

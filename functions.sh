@@ -15,7 +15,7 @@ jv_pg_play_music() {
 
 jv_pg_stop_music() {
 	xmms2 stop
-	say "$(jv_pg_music_lg pl)"
+	say "$(jv_pg_music_lg st)"
 }
 
 jv_pg_next_music() {
@@ -23,8 +23,8 @@ jv_pg_next_music() {
 	xmms2 next
 }
 
-jv_pg_stop_music() {
-	say "$(jv_pg_music_lg pl)"
+jv_pg_prev_music() {
+	say "$(jv_pg_music_lg pv)"
 	xmms2 prev
 }
 

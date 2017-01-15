@@ -10,12 +10,36 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-A simple music player 
+
+A simple music player. 
+Required : 
+	- xmms2 (it will be installed during installation)
+	
+configuration: 
+	music path folder
+	
+After installation you have to update music by commands  
 
 ## Usage
 ```
-You: Riproduci Musica
-Jarvis: Bene sentiamo un po di musica
+You: play music
+Jarvis: Well, let's listen music
+```
+```
+You: stop music
+Jarvis: music terminated
+```
+```
+You: next song
+Jarvis: next song
+```
+```
+You: previous song
+Jarvis: previous song
+```
+```
+You: update music
+Jarvis: music updated
 ```
 
 ## Author
